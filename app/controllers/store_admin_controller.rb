@@ -5,7 +5,7 @@ def home
 end
 
 def orders
-  layout 'order_administration'
+  render :layout=> 'order_administration'
 end
 
 def invoice
