@@ -1,1 +1,7 @@
-<h2> Welcome to Flatiron Widgets </h2> 
+class StaticController < ApplicationController 
+
+
+def home 
+end 
+
+end 
