@@ -4,4 +4,8 @@ def home
 
 end
 
+def order
+  render 'layouts/order_administration'
+end 
+
 end
