@@ -5,7 +5,7 @@ def home
 end
 
 def order
-  render 'layouts/order_administration'
+  render :layout => 'order_administration'
 end 
 
 end
