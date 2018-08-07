@@ -1,6 +1,7 @@
 class StoreAdminController < ApplicationController
 
 def home
-end 
+  render "layouts/store_admin/home"
+end
 
 end
