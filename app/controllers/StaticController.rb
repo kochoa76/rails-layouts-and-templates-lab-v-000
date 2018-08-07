@@ -1,7 +1,7 @@
-class StaticController < ApplicationController 
+class StaticController < ApplicationController
 
 
-def home 
-end 
+def home
+end
 
-end 
+end
