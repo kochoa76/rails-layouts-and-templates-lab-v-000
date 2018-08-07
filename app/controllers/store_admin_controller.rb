@@ -9,6 +9,6 @@ def orders
 end
 
 def invoice
-end 
+end
 
 end
